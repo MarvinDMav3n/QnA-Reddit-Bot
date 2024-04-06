@@ -1,6 +1,6 @@
 # QnA-Reddit-Bot
 
-A bot that answers questions from the user by searching Reddit forums for relevant posts.
+A bot that answers coding questions from the user by searching Reddit forums for relevant posts.
 
 - User enters a prompt
 - Bot checks prompt for keywords such as "Python"
